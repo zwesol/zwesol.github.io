@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zwesol.github.io/ifi/sitemap.ifi.gz
